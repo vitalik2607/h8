@@ -6,6 +6,15 @@
     height: 1px;
     background: #2C4058;
 }
+.icon{
+    font-size: 70px;
+        animation-play-state:paused;
+        animation-timing-function: ease-in-out;
+}
+.icon:hover{
+animation-play-state: running;
+
+}
 .title{
 text-align: center;
 margin-top: 30px;
